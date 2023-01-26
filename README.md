@@ -22,3 +22,27 @@ Software Engineer
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/rccondotta" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ryan-condotta" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+ ## ⚡ Technologies I use 
+<div align="center">
+<table align="left">
+    <tr>
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/jupyter.png" width="65px"/>
+            <br /> Jupyter
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/tensorflow.png" width="65px"/>
+            <br /> TensorFlow
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/pytorch.png" width="65px"/>
+            <br /> Pytorch
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/scikitlearn.png" width="65px"/>
+            <br /> Scikit Learn
+        </td>
+    </tr>
+</table>
+</div>
