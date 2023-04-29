@@ -5,8 +5,8 @@ Software Engineer
 -----------------
 
 * ✉️  You can contact me at [rccondotta@hotmail.com](mailto:rccondotta@hotmail.com)
-* 🧠  I'm learning PyTorch, and MLOps
-* 🤝  I'm open to collaborating on any ML / DL / CV Projects
+* 🧠  I'm learning Web Development (HTML, CSS, Javascript, React, Node.js)
+* 🤝  I'm open to collaborating on any ML / DL / CV or Web Development Projects
 
 ### Skills
 
