@@ -33,14 +33,14 @@ Software Engineer
         <tr>
             <td align="center" width="140" height="112.43">
                 <!-- Replace '#' with the link to your Hugging Face profile -->
-                <a href="[#](https://huggingface.co/rccondotta)">
+                <a href="https://huggingface.co/rccondotta">
                     <img src="./assets/icons/huggingface.png" width="65px"/>
                     <br /> Hugging Face
                 </a>
             </td>
             <td align="center" width="140" height="112.43">
                 <!-- Replace '#' with the link to your Code Sandbox profile -->
-                <a href="[#](https://codesandbox.io/u/rccondotta)">
+                <a href="https://codesandbox.io/u/rccondotta">
                     <img src="./assets/icons/codesandbox.png" width="65px"/>
                     <br /> Code Sandbox
                 </a>
