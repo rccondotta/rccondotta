@@ -29,7 +29,6 @@ Software Engineer
 
 ### Other Platforms
 <div align="center">
-    <h2>Other Platforms</h2>
     <table align="left">
         <tr>
             <td align="center" width="140" height="112.43">
