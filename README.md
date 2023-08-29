@@ -23,3 +23,24 @@ I am a software engineer with experience in a multitude of programming languages
 ### Socials
 
 <p align="left"> <a href="https://codesandbox.io/u/rccondotta" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/rccondotta" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/ryan-condotta" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
+### Projects
+
+#### Machine Learning / AI Repositories
+
+* [TensorFlow](https://github.com/rccondotta/TensorFlow)
+* [PyTorch](https://github.com/rccondotta/PyTorch)
+* [LLM Q&A](https://github.com/rccondotta/LLM-Q-A)
+* [OpenCV](https://github.com/rccondotta/OpenCV)
+
+#### Web Development Repositories
+
+* [Netflix Clone](https://github.com/rccondotta/netflix-clone)
+* [Crown Clothing](https://github.com/rccondotta/Crown-Clothing)
+* [Discover Coffee](https://github.com/rccondotta/Discover-Coffee)
+* [Smart Brain](https://github.com/rccondotta/smart-brain)
+* [NASA MERN](https://github.com/rccondotta/NASA-MERN)
+* [Javascript Projects](https://github.com/rccondotta/Javascript-Projects)
+
+
+
