@@ -7,7 +7,7 @@ Software Engineer
 I am a software engineer with experience in a multitude of programming languages. I have a strong passion for problem-solving and finding the best solutions. I am always open to learning and expanding my knowledge to stay up-to-date with the latest technologies and industry trends.
 
 * 🌍  I'm based in Virginia
-* 🖥️  See my portfolio at [rccondotta](http://https://rccondotta.netlify.app/)
+* 🖥️  See my portfolio at [rccondotta](https://rccondotta.netlify.app/)
 * ✉️  You can contact me at [rccondotta@gmail.com](mailto:rccondotta@gmail.com)
 * 🧠  I'm learning I'm learning Web Development (HTML, CSS, Javascript, React, Node.js, Next.js)
 * 🤝  I'm open to collaborating on any new projects! I love to design and implement!
