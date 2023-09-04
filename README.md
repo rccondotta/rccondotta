@@ -1,8 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ryan Condotta
-=====================================================================================================================================
-
-Software Engineer
------------------
+![Header](./github-header-image.png)
 
 I am a software engineer with experience in a multitude of programming languages. I have a strong passion for problem-solving and finding the best solutions. I am always open to learning and expanding my knowledge to stay up-to-date with the latest technologies and industry trends.
 
